@@ -1,3 +1,2 @@
-# paris24-bousselmi-NameLeader-g3
+# exercises covered by sessions 1 to 4
 
-first member / second member / ... 
